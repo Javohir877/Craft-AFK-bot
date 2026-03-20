@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "maxsusAFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ObunachilarN1.aternos.me",
-    "port": 32918,
+    "ip": "FELIZA_PUBG.aternos.me",
+    "port": 23374,
     "version": "",
     "try-creative": false
   },
